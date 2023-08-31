@@ -1,0 +1,151 @@
+*{
+    Font-family:"roboto";
+    font-weight:800;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+input{
+    font-size:14px; 
+    font-weight:500;
+}
+#box{
+    background-color: white;
+}
+.tab{
+    background-color: white;
+}
+button{
+    background: #F5A011;
+}
+label{
+    font-size:16px; font-weight:400
+}
+h2{
+    Font-size:48px;font-weight:800
+}
+
+.mainHeader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#img{
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+}
+span{
+    padding: 10px;
+}
+#iconbtn{
+    border: 2px solid;
+    border-radius: 20px;
+}
+#searchIcon{
+   font-size: 30px;
+}
+#personIcon{
+   font-size: 40px;
+
+}
+.MainSection{
+    background-color: #a0e8e8;
+    padding: 10px;
+}
+#rupee{
+   height: 20px;
+    color: black;
+    border-radius: 60%;
+    border: 2px solid;
+}
+.rupessymbol{
+    position: relative;
+}
+.rupeess
+{
+    position:absolute;
+    top: 7px;
+    left: 15px;
+
+}
+#rupee1{
+    height: 20px;
+    color: black;
+    border-radius: 60%;
+    border: 2px solid;
+}
+.rupees{
+    position:absolute;
+    top: 5px;
+    left: 14px;
+}
+.form{
+    background-color: white;
+}
+.formContaint{
+    display: flex;
+   flex-wrap: wrap;
+   padding: 10px;
+   
+}
+.formContaint div{
+    padding: 10px;
+}
+.KidsDetails{
+    display: flex;
+    padding: 10px;
+    background-color:white;
+}
+.KidsDetails div{
+    padding: 6px;
+}
+.btn{
+    margin-top: 30px;
+}
+.distribution{
+    background-color: white;
+}
+.mainRow{
+    margin: 0px;
+    padding: 0px;
+}
+.bgmain{
+    background-color: white;
+    border-top: 2px solid orangered;
+}
+.tabselect div{
+     padding: 5px;
+     margin-left: 10px;
+     background-color: white;
+     border:1px solid orangered;
+     border-bottom: none;
+     margin-bottom: -1px;
+}
+.term{
+    background-color: white;
+    border: none;
+}
+.chart{
+    position: relative;
+}
+.total{
+   position: absolute;
+   top: 135px;
+   left:42%;
+}
+.compaire{
+    background-color: white;
+    border: 2px solid skyblue;
+   border-radius: 10px;
+    color: skyblue;
+    margin-right: 10px;
+}
+.learnmore{
+    background-color: white;
+    border: none;
+}
